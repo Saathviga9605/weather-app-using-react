@@ -8,7 +8,7 @@ export default function Temperature() {
           {" "}
           <span className="city-name">Chennai </span>
         </h1>
-        <h2 className="calendar"></h2>
+        <h2 className="calendar">Date</h2>
         <h1>
           <span>
             <img
@@ -19,12 +19,8 @@ export default function Temperature() {
             />
             <strong id="temperature"> 12</strong>
             <span className="units">
-              <a href="#" className="fahrenheit" id="celsius">
-                ℃|
-              </a>{" "}
-              <a href="#" className="fahrenheit" id="fahrenheit">
-                ℉
-              </a>
+                ℃| ℉
+              
             </span>
           </span>
         </h1>
