@@ -18,6 +18,7 @@ export default function Form() {
           <div class="col-3">
             <input type="submit" value="Search" class="submit" />
           </div>
+          <h3>An <a href="https://github.com/Saathviga9605/using-react-weather">open source</a> code by Saathviga Balaji </h3>
         </div>
       </form>
     </div>
